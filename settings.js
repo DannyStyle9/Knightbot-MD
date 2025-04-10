@@ -2,7 +2,7 @@ const settings = {
   packname: 'Knight',
   author: 'Bot',
   botName: "DarkReach Bot",
-  botOwner: 'DannyStyles, // Your name
+  botOwner: 'DannyStyles', // Your name
   ownerNumber: '07078403920', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
